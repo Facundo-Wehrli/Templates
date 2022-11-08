@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: relative;
+    width: 3000px;
+    height: 3000px;
+    background: #FFFFFF;
+}
+
+.iphone {
+    position: absolute;
+    width: 1150.29px;
+    height: 2290px;
+    left: 925.36px;
+    top: 355px;
+    border: 5px solid springgreen;
+}
+
+.inner-elements {
+    position: absolute;
+    left: 45.77%;
+    right: 45.12%;
+    top: 14.42%;
+    bottom: 84.41%;
+}
+
+.inner-elements#rectangle {
+    
+}
